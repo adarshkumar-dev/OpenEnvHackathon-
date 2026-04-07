@@ -1,0 +1,10 @@
+name: support-ticket-env
+description: Customer support simulation environment
+version: 1.0
+
+reward_range: [0.0, 1.0]
+
+tasks:
+  - classification_easy
+  - response_medium
+  - resolution_hard
